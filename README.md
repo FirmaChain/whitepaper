@@ -1,5 +1,5 @@
 # Whitepaper
-This repository is FirmaChain Whitepaper from FirmaChain. (https://firmachain.org)
+This repository is FIRMACHAIN Whitepaper from FIRMACHAIN. (https://firmachain.org)
 
 ---
 
